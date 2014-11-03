@@ -1,5 +1,9 @@
 # chef-pyenv Changelog
 
+## 0.1.1
+
+* Update default pyenv version to v20141012
+
 ## 0.1.0
 
 * Update default pyenv version to v0.4.0-20140516
